@@ -16,30 +16,30 @@ Privacy: Unless there are any problems with the transaction, we will not disclos
 PS: This is really a very simple and rough idea. Just let me know if you have any thoughts.
 
 ### Features
-#### User Login with FB
-Users will be able to create accounts and log in to the application.
+- **User Login with FB:** 
+>Users will be able to create accounts and log in to the application.
 
-#### Add a new item with video:
-The seller can upload a video to introduce the product, then just add name and price
+- **Add a new item with video:** 
+>The seller can upload a video to introduce the product, then just add name and price
 
-#### Edit User data and item state.
-The seller edits the contact method so that buyers who are willing to buy can contact.
-The seller can set the item editing status or whether it has been sold
+- **Edit User data and item state:** 
+>The seller edits the contact method so that buyers who are willing to buy can contact.
+>The seller can set the item editing status or whether it has been sold
 
-#### Statistic
-Calculate the number of views, viewing time, and the number of people who want to buy
+- **Statistic:** 
+>Calculate the number of views, viewing time, and the number of people who want to buy
 
-#### Mobile-first(with capacitorjs)
-Let sellers use mobile phones to list products.
-And buyers use mobile phones to browse.
+- **Mobile-first(with capacitorjs):** 
+>Let sellers use mobile phones to list products.
+>And buyers use mobile phones to browse.
 
-Simple Cut Video: (best to have)
-We want sellers to upload only ten seconds of videos
+- **Simple Cut Video: (best to have):** 
+>We want sellers to upload only ten seconds of videos
 
 ### Technologies
 AWS ec2
 Postgres
-Nodejs or C#.
+Nodejs(with typescript) or C#.
 angular for mobile(capacitor js)
 
 ### What I'll Have to Learn
