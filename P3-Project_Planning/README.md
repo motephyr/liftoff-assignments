@@ -1,18 +1,30 @@
-# Project Planning
-For this assignment, you'll create some initial plans for your project.
-
 ## Assignment Description
 [Project Planning Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-planning)
 
-## Submission Instructions
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+https://www.figma.com/file/g9riwjNoHEmRJHhqficxnj/Android-UI-Kit-Copy?node-id=50933%3A3152
+
+As a guest, I want to login (on login page) , so I can become a seller or buyer.
+
+As a seller, I want to add a new item with video (on add item page) , so I can show item to buyer.
+
+As a seller, I want to edit an old item state(on my item list) , so I can make item show or hide from buyer.
+
+As a seller, I want to show an old item state(on my item list) , so I can recognize the item situation.
+
+As a seller, I want to edit my information (on my information page) , so the buyer can view my information and connect with me
+
+As a buyer, I want to view an item's seller information(on item page) , so I can connect the seller to buy this item.
+
+As a buyer, I want to view my shopping list(on my item) , so I can confirm which buyer I need to connect
+
+
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+https://trello.com/invite/b/YX4q55hF/3684c68ccdddee63ba1524ea861a8487/10secondshop
 
 ### Project Repo Link
 

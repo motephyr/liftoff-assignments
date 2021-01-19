@@ -1,4 +1,4 @@
-10SecondsForGiving.
+10SecondsWindowShop.
 ## Assignment Description
 [Project Outline Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-outline)
 
