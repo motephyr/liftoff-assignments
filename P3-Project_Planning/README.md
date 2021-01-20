@@ -34,4 +34,4 @@ https://trello.com/invite/b/YX4q55hF/3684c68ccdddee63ba1524ea861a8487/10secondsh
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/motephyr/10SecondsWindowShop
